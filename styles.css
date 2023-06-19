@@ -1,0 +1,31 @@
+html {font-family: "Gabriola", Times, serif;
+}
+
+#animalcard {
+  width: 300px;
+  padding: 10px;
+  border: 1px outset;
+  box-shadow: 5px 5px grey;
+  box-sizing: border-box;
+}
+
+.title {font-weight: bold;
+}
+
+.lionpic { width: 300px;
+}
+
+#cardfacts { margin: 0px;
+  			 padding: 10px;
+  		     border: 1px groove;
+}
+
+.facts { font-style: italic;
+}
+
+.list { list-style: none;
+  		padding: 
+}
+
+.label { font-weight: bold;
+}
